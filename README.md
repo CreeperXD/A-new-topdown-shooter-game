@@ -1,3 +1,2 @@
-# A-new-topdown-shooter-game
-The repository posted last year is not related to this.
+# Topdown shooter game
 Made in Unity. Scripts will be uploaded here.
